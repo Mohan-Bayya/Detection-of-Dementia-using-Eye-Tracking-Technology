@@ -1,4 +1,4 @@
-# Dementia Detection Using Eye Tracking
+# Dementia Detection Using Eye Tracking Technology
 
 ## Project Overview
 
